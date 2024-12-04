@@ -1,4 +1,4 @@
-# Examen Opcional: Curso de Bases de Datos
+# Primer Examen Opcional: Parte Practica
 
 **Materia**: Bases de Datos (750006C)  
 **Periodo**: 2024-2  
